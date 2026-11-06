@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+*.dump
+*.sql.gz
+*.dump.*
+*.pem
+*.key
+database.json
+backups/
+.DS_Store

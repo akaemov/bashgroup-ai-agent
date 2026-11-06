@@ -1,0 +1,16 @@
+[Unit]
+Description=BAШГРУПП PostgreSQL backup
+Requires=postgresql.service
+After=postgresql.service
+
+[Service]
+Type=oneshot
+User=postgres
+Group=postgres
+UMask=0077
+ExecStart=/usr/bin/python3 /opt/agents/bashgroup-ai-agent/backend/scripts/backup.py
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectHome=true
+ProtectSystem=strict
+ReadWritePaths=/var/backups/bashgroup

@@ -1,0 +1,11 @@
+[Unit]
+Description=Daily BAШГРУПП PostgreSQL backup
+
+[Timer]
+OnCalendar=*-*-* 03:20:00 UTC
+Persistent=true
+RandomizedDelaySec=5m
+Unit=bashgroup-db-backup.service
+
+[Install]
+WantedBy=timers.target
