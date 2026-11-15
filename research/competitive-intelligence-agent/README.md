@@ -7,7 +7,8 @@
 - [`discovery/competitive-intelligence-discovery.md`](discovery/competitive-intelligence-discovery.md) — журнал discovery и зафиксированные решения по MVP; начат 2026-11-06; статус: рабочий.
 - [`briefs/competitive-intelligence-brief.md`](briefs/competitive-intelligence-brief.md) — основной бриф для совместной сессии; начат 2026-11-06; статус: требует дальнейшего заполнения.
 - [`meetings/meeting-2026-11-08-summary.md`](meetings/meeting-2026-11-08-summary.md) — конспект встречи 8 ноября 2026 года; основан на автоматической расшифровке, выводы сверены по смысловому контексту.
-- [`decisions/multi-agent-mvp-design.md`](decisions/multi-agent-mvp-design.md) — черновик решения о двух независимых сценариях MVP: разведке объектов и разведке конкурентов; статус: ожидает утверждения.
+- [`decisions/multi-agent-mvp-design.md`](decisions/multi-agent-mvp-design.md) — утвержденная основа двух независимых сценариев MVP: разведки объектов и разведки конкурентов.
+- [`decisions/object-intelligence-input-context.md`](decisions/object-intelligence-input-context.md) — рабочая спецификация контекста для агента разведки объектов.
 
 ## Следующие типы материалов
 
