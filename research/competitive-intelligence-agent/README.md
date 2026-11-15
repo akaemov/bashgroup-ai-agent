@@ -11,6 +11,7 @@
 - [`decisions/object-intelligence-input-context.md`](decisions/object-intelligence-input-context.md) — первоначальный контекст промпта для агента разведки объектов.
 - [`decisions/object-intelligence-context-loading.md`](decisions/object-intelligence-context-loading.md) — правила выборочной подгрузки материалов и защиты от галлюцинаций.
 - [`decisions/capability-knowledge-storage.md`](decisions/capability-knowledge-storage.md) — что хранится в базе возможностей БАШГРУПП и как агент использует эти данные.
+- [`decisions/agent-storage-abstraction.md`](decisions/agent-storage-abstraction.md) — принцип независимости агента от конкретного хранилища через предметный слой контекста.
 - [`sources/object-intelligence-source-registry.md`](sources/object-intelligence-source-registry.md) — расширяемый реестр источников для поиска объектов.
 - [`todos/data-storage-schema.md`](todos/data-storage-schema.md) — разработать схему хранения данных о возможностях БАШГРУПП.
 
