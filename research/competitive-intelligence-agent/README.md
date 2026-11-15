@@ -10,7 +10,9 @@
 - [`decisions/multi-agent-mvp-design.md`](decisions/multi-agent-mvp-design.md) — утвержденная основа двух независимых сценариев MVP: разведки объектов и разведки конкурентов.
 - [`decisions/object-intelligence-input-context.md`](decisions/object-intelligence-input-context.md) — первоначальный контекст промпта для агента разведки объектов.
 - [`decisions/object-intelligence-context-loading.md`](decisions/object-intelligence-context-loading.md) — правила выборочной подгрузки материалов и защиты от галлюцинаций.
+- [`decisions/capability-knowledge-storage.md`](decisions/capability-knowledge-storage.md) — что хранится в базе возможностей БАШГРУПП и как агент использует эти данные.
 - [`sources/object-intelligence-source-registry.md`](sources/object-intelligence-source-registry.md) — расширяемый реестр источников для поиска объектов.
+- [`todos/data-storage-schema.md`](todos/data-storage-schema.md) — разработать схему хранения данных о возможностях БАШГРУПП.
 
 ## Следующие типы материалов
 
