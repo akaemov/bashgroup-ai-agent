@@ -6,7 +6,7 @@
 
 Как работать: заполните открытые разделы 1, 2, 4–8; в разделе 3 отметьте поправки к принятым решениям. Если договориться пока не удалось, укажите, кто и на основании чего уточнит ответ.
 
-Журнал обсуждения: [competitive-intelligence-discovery.md](competitive-intelligence-discovery.md).
+Журнал обсуждения: [competitive-intelligence-discovery.md](../discovery/competitive-intelligence-discovery.md).
 
 Отдельные вопросы для предварительного ознакомления Азата и встречи с Костей: [competitive-intelligence-azat-brief.md](competitive-intelligence-azat-brief.md). Передача документа Азату в этой сессии не выполняется.
 
