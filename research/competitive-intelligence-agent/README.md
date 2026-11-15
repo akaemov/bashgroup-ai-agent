@@ -6,7 +6,6 @@
 
 - [`discovery/competitive-intelligence-discovery.md`](discovery/competitive-intelligence-discovery.md) — журнал discovery и зафиксированные решения по MVP; начат 2026-11-06; статус: рабочий.
 - [`briefs/competitive-intelligence-brief.md`](briefs/competitive-intelligence-brief.md) — основной бриф для совместной сессии; начат 2026-11-06; статус: требует дальнейшего заполнения.
-- [`briefs/competitive-intelligence-azat-brief.md`](briefs/competitive-intelligence-azat-brief.md) — вопросы Азату для предварительного ознакомления и встречи; подготовлен 2026-11-08; статус: ожидает ответов.
 - [`meetings/meeting-2026-11-08-summary.md`](meetings/meeting-2026-11-08-summary.md) — конспект встречи 8 ноября 2026 года; основан на автоматической расшифровке, выводы сверены по смысловому контексту.
 
 ## Следующие типы материалов

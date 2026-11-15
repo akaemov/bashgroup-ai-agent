@@ -5,6 +5,7 @@
 ## Индекс тем
 
 - [`competitive-intelligence-agent/`](competitive-intelligence-agent/README.md) — агент конкурентной разведки; текущая активная тема. Здесь собраны брифы, журнал discovery и конспекты встреч по направлению.
+- [`commercial-proposal-preparation/`](commercial-proposal-preparation/README.md) — подготовка коммерческих предложений; ответы Азата, требования к пилоту и открытые действия.
 
 ## Как поддерживать индекс
 

@@ -8,8 +8,6 @@
 
 Журнал обсуждения: [competitive-intelligence-discovery.md](../discovery/competitive-intelligence-discovery.md).
 
-Отдельные вопросы для предварительного ознакомления Азата и встречи с Костей: [competitive-intelligence-azat-brief.md](competitive-intelligence-azat-brief.md). Передача документа Азату в этой сессии не выполняется.
-
 ## 1. Какое решение поддерживает исследование?
 
 **Какое конкретное решение Азат должен уметь принимать после исследования конкурентной разведки?**
