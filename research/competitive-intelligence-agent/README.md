@@ -8,7 +8,9 @@
 - [`briefs/competitive-intelligence-brief.md`](briefs/competitive-intelligence-brief.md) — основной бриф для совместной сессии; начат 2026-11-06; статус: требует дальнейшего заполнения.
 - [`meetings/meeting-2026-11-08-summary.md`](meetings/meeting-2026-11-08-summary.md) — конспект встречи 8 ноября 2026 года; основан на автоматической расшифровке, выводы сверены по смысловому контексту.
 - [`decisions/multi-agent-mvp-design.md`](decisions/multi-agent-mvp-design.md) — утвержденная основа двух независимых сценариев MVP: разведки объектов и разведки конкурентов.
-- [`decisions/object-intelligence-input-context.md`](decisions/object-intelligence-input-context.md) — рабочая спецификация контекста для агента разведки объектов.
+- [`decisions/object-intelligence-input-context.md`](decisions/object-intelligence-input-context.md) — первоначальный контекст промпта для агента разведки объектов.
+- [`decisions/object-intelligence-context-loading.md`](decisions/object-intelligence-context-loading.md) — правила выборочной подгрузки материалов и защиты от галлюцинаций.
+- [`sources/object-intelligence-source-registry.md`](sources/object-intelligence-source-registry.md) — расширяемый реестр источников для поиска объектов.
 
 ## Следующие типы материалов
 
