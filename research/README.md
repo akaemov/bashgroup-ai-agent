@@ -5,6 +5,7 @@
 ## Индекс тем
 
 - [`competitive-intelligence-agent/`](competitive-intelligence-agent/README.md) — агент конкурентной разведки; текущая активная тема. Здесь собраны брифы, журнал discovery и конспекты встреч по направлению.
+  - [Окружение агента разведки](competitive-intelligence-agent/discovery/Окружение%20агента%20разведки.md) — текстовая схема Canvas; 2026-11-21; статус: рабочая архитектура.
 - [`commercial-proposal-preparation/`](commercial-proposal-preparation/README.md) — подготовка коммерческих предложений; ответы Азата, требования к пилоту и открытые действия.
 
 ## Как поддерживать индекс

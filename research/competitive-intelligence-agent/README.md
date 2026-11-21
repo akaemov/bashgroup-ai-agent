@@ -4,6 +4,8 @@
 
 ## Индекс материалов
 
+- [Окружение агента разведки](discovery/Окружение%20агента%20разведки.md) — текстовая схема Canvas; 2026-11-21; статус: рабочая архитектура.
+
 - [`discovery/competitive-intelligence-discovery.md`](discovery/competitive-intelligence-discovery.md) — журнал discovery и зафиксированные решения по MVP; начат 2026-11-06; статус: рабочий.
 - [`briefs/competitive-intelligence-brief.md`](briefs/competitive-intelligence-brief.md) — основной бриф для совместной сессии; начат 2026-11-06; статус: требует дальнейшего заполнения.
 - [`meetings/meeting-2026-11-08-summary.md`](meetings/meeting-2026-11-08-summary.md) — конспект встречи 8 ноября 2026 года; основан на автоматической расшифровке, выводы сверены по смысловому контексту.
